@@ -5,25 +5,28 @@
 💻 **Specialized in Application Development**  
 🌱 Skilled in: **HTML, CSS, JS, Java, Python, Spring Boot, Angular**  
 🌍 Based in **Ajman, UAE**  
-📫 Reach me on: [LinkedIn](https://www.linkedin.com) | [Email](mailto:yourmail@example.com)
+
+---
+
+### 📖 About Me
+- 🎓 Fresh IT Graduate passionate about creating modern, user-friendly apps.  
+- 🚀 I enjoy learning new technologies and improving my coding skills.  
+- 🌟 My goal: To build solutions that make life easier and more efficient.  
+
+---
+
+### 📫 Contact
+- 📧 Email: **[amnaa.y8@gmail.com](mailto:amnaa.y8@gmail.com)**  
+
+---
+
+### 🌐 Languages
+- English  
+- Arabic  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amnaay8&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
-</p>
-
----
-
-### 🌐 Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaay8&layout=compact&theme=default&hide_border=true&title_color=2F80ED" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amnaay8/amnaay8/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
