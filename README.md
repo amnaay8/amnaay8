@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Amna
 
-<!--
-**amnaay8/amnaay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F59E0B&lines=IT+Graduate;App+Developer;Always+Learning)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+💻 Passionate about **Application Development**  
+🚀 Skilled in: HTML, CSS, JS, Java, Python, Spring Boot, Angular  
+📍 Based in Ajman, UAE  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnaay8&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amnaay8&layout=compact&theme=radical)
+
+---
+
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/amnaay8/amnaay8/blob/output/github-contribution-grid-snake.svg)
